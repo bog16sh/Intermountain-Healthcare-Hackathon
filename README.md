@@ -9,8 +9,8 @@ The repository includes the presentation delivered to Intermountain Healthcare j
 Live Demo & System Access:
 Access to the AI interface, database, and administrator dashboard is available upon request.
 
-Customer-facing AI: [https://bog16sh.retool.com/agents/ae670569-b512-4ea4-b90d-4918d437c64b/chat]
+Customer-facing AI: [View AI](https://bog16sh.retool.com/agents/ae670569-b512-4ea4-b90d-4918d437c64b/chat)
 
-Database: [https://bog16sh.retool.com/resources/data/0af6495c-38d5-4b56-ac2f-150ee06d3134/requests?env=production]
+Database: [View database](https://bog16sh.retool.com/resources/data/0af6495c-38d5-4b56-ac2f-150ee06d3134/requests?env=production)
 
-Admin interface: [https://bog16sh.retool.com/apps/d60c1b0c-2187-11f1-99f7-1b2bc4edc2f4/Community%20Health%20Request/request-detail]
+Admin interface: [View interface](https://bog16sh.retool.com/apps/d60c1b0c-2187-11f1-99f7-1b2bc4edc2f4/Community%20Health%20Request/request-detail)
